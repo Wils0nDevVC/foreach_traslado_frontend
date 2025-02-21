@@ -11,3 +11,6 @@ Este proyecto permite registrar traslados y calcular la huella de carbono genera
 - **Axios**: Para las peticiones HTTP.
 - **Zustand**: Para la gestión del estado global (si lo estás usando).
 - **Vite**: Herramienta de construcción y desarrollo rápida para React.
+
+### Run
+`npm run dev`
